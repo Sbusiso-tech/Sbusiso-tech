@@ -32,19 +32,19 @@ I build reliable products end to end, with a strong bias for maintainable system
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,python&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=ts,python,cs,js,java,css,bash,html,kotlin,php,rust&theme=dark" alt="Languages"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,bootstrap&theme=dark" alt="Frontend"/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma&theme=dark" alt="Backend & Databases"/>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,mongodb,mysql,firebase&theme=dark" alt="Backend & Databases"/>
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,vercel,githubactions&theme=dark" alt="DevOps & Cloud"/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,kubernetes,vscode,azure,figma,git,linux,aws&theme=dark" alt="DevOps & Cloud"/>
 
 ### Languages
 - 🇬🇧 **English** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
@@ -62,7 +62,7 @@ I build reliable products end to end, with a strong bias for maintainable system
 
 <div align="center">
 
-<a href="https://github.com/Sbusiso-tech">github.com/Sbusiso-tech</a></sub>
+<sub><a href="https://github.com/Sbusiso-tech">github.com/Sbusiso-tech</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=120&section=footer" width="100%" alt="Footer wave"/>
 
