@@ -22,7 +22,7 @@ I build reliable products end to end, with a strong bias for maintainable system
 
 ### Featured Projects
 
-- [Job Market Intelligence Platform](https://github.com/Sbusiso-tech/job-market-intelligence-platform) — End-to-end data engineering platform answering: what tech skills are employers asking for? Job APIs → Kafka → data lake → Spark → PostgreSQL → dbt, with a Redis real-time layer, FastAPI, Power BI and Airflow. 3,700+ postings analysed across 134 skills, backed by 39 dbt tests.
+- [HireSignal](https://sbusiso-tech.github.io/hiresignal/) — End-to-end data engineering platform answering: what tech skills are employers asking for? Job APIs → Kafka → data lake → Spark → PostgreSQL → dbt, with a Redis real-time layer, FastAPI, Power BI and Airflow. 3,700+ postings analysed across 134 skills, backed by 39 dbt tests.
 
 - [SA Job Market Cloud Analytics](https://dzc3ibsjqeo54.cloudfront.net) — Serverless AWS platform tracking which tech skills South African employers want, what they pay in rands and in which province. Daily pipeline on Lambda, Step Functions, SQS and DynamoDB, with Cognito sign-in, email job alerts and 350 tests. Runs at $0.00/month. WeThinkCode\_ capstone.
 
