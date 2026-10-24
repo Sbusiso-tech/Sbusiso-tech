@@ -40,12 +40,7 @@ const profile = {
 
 ## `$ git log --career`
 
-```diff
-@@ career.git @@
-+ 9f3e7c2 (HEAD -> wethinkcode)  2025 – present  feat: Software Engineering Programme @ WeThinkCode_
-+ e4c1a9f (techsoft)             2023 – 2024     feat: Technical Support @ Techsoft International
-+ 1a0c3d8 (dut)                  2013 – 2017     init: ND Information Technology @ Durban University of Technology
-```
+<img src="./assets/career.svg" width="100%" alt="Career: 2025–present Software Engineering Programme @ WeThinkCode_; 2023–2024 Technical Support @ Techsoft International; 2013–2017 ND Information Technology @ Durban University of Technology"/>
 
 ## `$ ls -la projects/`
 
