@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="283" viewBox="0 0 860 283">
+<defs>
+<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#00e87a" stroke-opacity="0.05"/></pattern>
+<clipPath id="win"><rect x="1" y="1" width="858" height="281" rx="10"/></clipPath>
+</defs>
+<g clip-path="url(#win)">
+<rect width="860" height="283" fill="#0f1512"/>
+<rect width="860" height="283" fill="url(#g)"/>
+<rect width="860" height="40" fill="#18211c"/>
+<line x1="0" y1="40.5" x2="860" y2="40.5" stroke="#22302a"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="42" cy="20" r="6" fill="#febc2e"/><circle cx="62" cy="20" r="6" fill="#28c840"/>
+<text x="84" y="25" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#7d8f87">~/projects/job-postings-etl</text>
+<circle cx="740.2" cy="20" r="4" fill="#4fd6e8"/><text x="840" y="25" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#7d8f87">open source</text>
+<text x="24" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" font-weight="700" fill="#ffffff">Job Postings Analytics ETL</text>
+<text x="24" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#7d8f87">Batch data engineering pipeline. Merges job listings from two sources with different schemas,</text>
+<text x="24" y="129" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#7d8f87">deduplicates them across boards, runs data quality checks with a quarantine zone, and loads a PostgreSQL</text>
+<text x="24" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#7d8f87">star schema explored in Streamlit.</text>
+<rect x="24" y="179" width="812" height="38" rx="6" fill="#0a0e0c" stroke="#22302a" stroke-dasharray="4 3"/>
+<text x="38" y="203" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13"><tspan fill="#00e87a">Jobs</tspan><tspan fill="#7d8f87"> → </tspan><tspan fill="#00e87a">Clean + DQ</tspan><tspan fill="#7d8f87"> → </tspan><tspan fill="#00e87a">Star schema</tspan><tspan fill="#7d8f87"> → </tspan><tspan fill="#00e87a">Streamlit</tspan></text>
+<rect x="24" y="235" width="62.400000000000006" height="24" rx="4" fill="#4fd6e8" fill-opacity="0.08" stroke="#4fd6e8" stroke-opacity="0.25"/><text x="55.2" y="251" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#4fd6e8">python</text>
+<rect x="94.4" y="235" width="92.0" height="24" rx="4" fill="#4fd6e8" fill-opacity="0.08" stroke="#4fd6e8" stroke-opacity="0.25"/><text x="140.4" y="251" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#4fd6e8">postgresql</text>
+<rect x="194.4" y="235" width="40.2" height="24" rx="4" fill="#4fd6e8" fill-opacity="0.08" stroke="#4fd6e8" stroke-opacity="0.25"/><text x="214.5" y="251" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#4fd6e8">etl</text>
+<rect x="242.60000000000002" y="235" width="62.400000000000006" height="24" rx="4" fill="#4fd6e8" fill-opacity="0.08" stroke="#4fd6e8" stroke-opacity="0.25"/><text x="273.8" y="251" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#4fd6e8">docker</text>
+<rect x="313.0" y="235" width="84.60000000000001" height="24" rx="4" fill="#4fd6e8" fill-opacity="0.08" stroke="#4fd6e8" stroke-opacity="0.25"/><text x="355.3" y="251" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#4fd6e8">streamlit</text>
+</g>
+<rect x="0.5" y="0.5" width="859" height="282" rx="10" fill="none" stroke="#22302a"/>
+</svg>
